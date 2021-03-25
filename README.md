@@ -1,0 +1,1 @@
+This repository contains the browserified version of calendar modules.
